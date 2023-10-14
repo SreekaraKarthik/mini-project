@@ -1,4 +1,4 @@
-#includE<stdio.h>
+#include<stdio.h>
 #define CANDIDATE_COUNT
 #define CANDIDATE1 "Narendra Modi"
 #define CANDIDATE2 "Rahul Gandhi"
